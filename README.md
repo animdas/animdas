@@ -1,3 +1,3 @@
-- 👋 Hi, thanks for coming here!
+- 👋 Hey, thanks for visiting!
 - 👀 Please feel free to look around and let me know if something interests you. 
 - :triangular_flag_on_post:	If you are unable to open the uploaded Jupyter notebooks (due to github rendering issue), please follow the link in the README section of the particular repository and you will see the notebook/codes in a jiffy.
