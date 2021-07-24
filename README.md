@@ -1,3 +1,3 @@
 - 👋 Hey, thanks for visiting!
 - 👀 Please feel free to look around and let me know if something interests you 
-- :clipboard: Learning by throwing myself into hackathons and pushing up the leaderboards
+- :trophy: Learning by throwing myself into hackathons and pushing up the leaderboards
